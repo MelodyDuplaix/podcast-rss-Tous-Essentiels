@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Tous Essentiels – Revenu de base</title>
+    <link>https://www.revenudebase.info/podcasts/</link>
+    <description>Podcasts du MFRB sur le revenu de base</description>
+    <atom:link href="https://melodyduplaix.github.io/podcast-rss-Tous-Essentiels/rss.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sun, 12 Jul 2026 15:51:44 +0000</lastBuildDate>
+    <item>
+      <title>Tous Essentiels : Monnaie</title>
+      <description>Argent maudit, magique ou … démocratique ? Avec Cyril (participant au réseau Monnaie Libre) et Frédéric (initiateur de l’expérimentation Tera), on apprend qui crée la monnaie et comment on peut en reprendre le contrôle pour servir l’humain comme la nature à toutes les échelles : locale, nationale, européenne et, même, mondiale !</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2021/07/TousessentielsMonnaie.mp3?_=48</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2021/07/TousessentielsMonnaie.mp3?_=48" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels : Transition écologique</title>
+      <description>Avec plus d’argent, vous consommeriez plus ou mieux ? Avec Julien (commoner) et Didier (retraité bricolo), on découvre comment le revenu de base peut soutenir ceux qui nous nourrissent et les alternatives respectueuses des humains comme de la nature, mais aussi remplacer surconsommation par investissements durables, notamment en monnaie locale...</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsTransitionEcologique.mp3?_=47</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsTransitionEcologique.mp3?_=47" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels : Paix</title>
+      <description>Le Revenu de Base est-il un levier de paix ? Oui, répondons-nous avec Jocelyne, née dans le mouvement ouvrier, militante associative et agent sociale. Explorons l’effet d’un revenu inconditionnel sur le sentiment de sécurité individuel jusqu’à l’appartenance dans une société pacifiée !</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2021/11/tousessentielspaix.mp3?_=46</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2021/11/tousessentielspaix.mp3?_=46" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels - Spécial Anniversaire : le MFRB a 10 ans !</title>
+      <description>En 2013, plusieurs défenseurs d’un revenu inconditionnel, individuel et universel se réunissaient pour créer un mouvement qui soit une espace de discussion, de recherche et de diffusion d’un Revenu de Base… jusqu’à son instauration dans la loi … en 2033, pourquoi pas ??!! Suivez avec Virginie sa naissance, son évolution et ses ambitions… et rejoignez-nous 😃 https://www.revenudebase.info/participer/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2022/02/tous-essentiels-entreprenariat.mp3?_=45</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2022/02/tous-essentiels-entreprenariat.mp3?_=45" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels : Pauvreté</title>
+      <description>« On peut détruire la misère. La misère est une maladie de la société », disait Victor Hugo il y a 170 ans : il est temps de l’exaucer ! Avec Cyril, jeune étudiant et Stéphane, vieux baroudeur du marché du travail, on explore l’apport d’un Revenu de Base sur le chantage à la faim, la précarité...</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2021/11/tousessentielspauvrete.mp3?_=44</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2021/11/tousessentielspauvrete.mp3?_=44" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels : 1er Mai 2022</title>
+      <description>Pour ce 1er mai particulier, 3ème tour social entre présidentielles calamiteuses et législatives cruciales, une question s’impose : pourquoi les syndicats ne défendent-ils pas le Revenu de Base, alors qu’il serait un formidable levier de négociations des Conditions de Travail ? Avec Bernard, syndicaliste depuis 50 ans, nous explorerons ces freins… et leur évolution.</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2022/05/tousessentielstravail-020522.mp3?_=43</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2022/05/tousessentielstravail-020522.mp3?_=43" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels : Femmes</title>
+      <description>Le revenu de base, ce nouveau droit humain bénéficiera surtout aux femmes ! Avec Corinne (présidente de Mères pour la paix) et Bérangère (maman solo), on découvre comment le revenu de base libérera les femmes au boulot comme à la maison : avoir les moyens de l’égalité, preuves à l’appui !</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsFemmes.mp3?_=42</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsFemmes.mp3?_=42" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels : Culture</title>
+      <description>L’art est-il inutile ? Avec Max (intermittent balloonologue ) et Marie (apprentie vidéaste), on fait le point sur la situation des artistes, entre adulation et précarité, soumis aux lois du marché quand leur créativité et leur liberté sont l’essence même de leur cadeau au monde : leur art.</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsCulture.mp3?_=41</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsCulture.mp3?_=41" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels : Temps libéré</title>
+      <description>Vacances choisies ou chômage subi ? Avec Marlène (chômeuse hyperactive) et Laurent (allocataire Adulte Handicapé), on explore le potentiel du temps libre et choisi…</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsTempsLibere.mp3?_=40</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsTempsLibere.mp3?_=40" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels : Santé</title>
+      <description>Êtes-vous malade du travail ou de ne pas en avoir ? Avec Isabelle (militante ADT Quart Monde) et Philippe (médecin urgentiste), on constate les dégâts de la précarité alors que dans les expérimentations, le revenu de base soutient la prévention, la sécurité individuelle et collective avec des effets sur la santé physique comme mentale…</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsSante.mp3?_=39</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsSante.mp3?_=39" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels : Travail</title>
+      <description>Si vous aviez un revenu de base garanti jusqu’à votre mort… arrêteriez-vous de travailler ? Avec Bernard (syndicaliste) et Gihane (agent d’entretien) on s’interroge sur la “Valeur Travail” et les dérives du “marché du travail” et on explore le choix de nos conditions de travail, l’utilité sociétale hors emploi et les résultats des expérimentations…</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsTravail.mp3?_=38</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2021/07/TousEssentielsTravail.mp3?_=38" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels : Care</title>
+      <description>A l’heure où l’on stigmatise les « assistés » jusqu’à exiger des heures de travail en échange de notre solidarité, que vivent réellement les humains de part et d’autre des guichets ? Lors de la Journée mondiale du travail et des travailleurs sociaux, nous avons rencontré des éducateurs spécialisés, des assistantes sociales… mais aussi des « bénéficiaires » de la Garantie Jeune, de l’Allocation Adulte Handicapé, du Revenu de Solidarité Active... Avec Catherine, ancienne allocataire et agent sociale, pourfendons les préjugés et redonnons un visage aux chiffres.</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2022/04/tousessentiels-care.mp3?_=37</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2022/04/tousessentiels-care.mp3?_=37" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tous Essentiels : best of !</title>
+      <description>Sprint final de l’Initiative Citoyenne Européenne comme des élections en France, nous faisons, avec Max et Catherine, un tour d’horizon des thématiques abordées depuis 18 mois et un point politique en comparant le bilan de M. Macron et le programme de la NUPES à notre ambition d’un Revenu de Base Inconditionnel, Individuel et toute la vie !</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2022/06/tous-essentiels-6-juin221.mp3?_=36</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2022/06/tous-essentiels-6-juin221.mp3?_=36" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 1 - La monnaie libre</title>
+      <description>Virginie Caura nous présente la monnaie libre, un revenu de base qu’on peut déjà recevoir en rejoignant le réseau et qui renverse la création monétaire en la rendant égalitaire ! Un remède à la menace de crack financier, une réappropriation de notre pouvoir sur l’argent, sa création, sa distribution… Bref, une révolution en marche que vous pouvez alimenter dès maintenant sur https://monnaie-libre.fr/ !</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2022/10/tous-essentiels-monnaie-libre1.mp3?_=35</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2022/10/tous-essentiels-monnaie-libre1.mp3?_=35" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 2 - L'éco-village TERA</title>
+      <description>Avec Frédéric Bosqué, on découvre un petit village d’irréductibles rêvolutionnaires qui expérimente un revenu de base lié à une monnaie citoyenne et une production locale pour revitaliser une territoire rural… C’est du déjà là, à rejoindre, soutenir, polliniser… rdv sur https://www.tera.coop/ !</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2022/10/tous-essentiels-oct22-tera2.mp3?_=34</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2022/10/tous-essentiels-oct22-tera2.mp3?_=34" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.3 – L’impôt négatif français</title>
+      <description>Avec Marc de Basquiat, on découvre cette version à portée de main, réaliste tout de suite : simplifier la redistribution et surtout la rendre juste ! Plus aucun jeune sans revenu, plus aucune femme dépendant de son conjoint, plus personne à la rue… Réalisez votre simulation sur https://impotnegatif.fr/ !</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/01/ep3-2ru-redevance-revenu-universel.mp3?_=33</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/01/ep3-2ru-redevance-revenu-universel.mp3?_=33" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 4 - Le revenu citoyen inconditionnel</title>
+      <description>Patrick Colin de la Verdière nous propose une version plus ambitieuse, combinée avec une réduction du temps de travail… et donc un meilleur partage des tâches pour allier liberté et responsabilité partagées. Découvrez ce projet de société sur https://www.descitoyensalassemblee.fr/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/01/ep4-revenu-citoyen-inconditionnel.mp3?_=32</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/01/ep4-revenu-citoyen-inconditionnel.mp3?_=32" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 5 - Le Revenu Universel d’Existence</title>
+      <description>Faustine Balmelle et Laurent Périn sont élus Génération.s, elle, à la ville de Lille et à la Métropole, et lui au département du Nord. Ils défendent le RUE porté par Benoit Hamon en 2017 mais aussi, au quotidien, tous les plus petits pas possibles localement : expérimentation municipale, opposition aux régressions…Vous trouverez un petit guide argumentaire sur le RUE ici : https://www.generation-s.fr/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/01/ep5-revenu-universel-existence.mp3?_=31</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/01/ep5-revenu-universel-existence.mp3?_=31" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 6 - Le revenu d'existence</title>
+      <description>Serge Bresson nous présente le travail de son père, Yoland, avec sa femme Maryse qui est sociologue spécialisée dans l’exclusion. Fondé sur le Capital-Temps de chaque citoyen, il renvoie au droit de profiter du travail de nos aïeux et d’avoir un revenu non seulement pour exister mais parce qu’on existe. Une version réaliste à court terme, rappelant le potentiel de la création monétaire au niveau national… à creuser dans cette vidéo : https://www.dailymotion.com/video/xqc5sk et cet article : https://www.revenudebase.info/actualites/hommage-yoland-bresson/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/10/6tous-essentiels-revenu-existence-fev-23.mp3?_=30</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/10/6tous-essentiels-revenu-existence-fev-23.mp3?_=30" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 7 – Un revenu de base au service de l'entrepreneuriat</title>
+      <description>Le revenu de base serait un investissement et non un coût ? On vous le prouve avec Florent Kaisser qui a lancé sa petite entreprise à vélo, écolo, à son rythme et selon ses valeurs… Il a même imaginé un financement du revenu de base pour les entreprises ! Suivons-le dans ses défis !</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2022/02/tous-essentiels-entreprenariat.mp3?_=29</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2022/02/tous-essentiels-entreprenariat.mp3?_=29" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 8 - Le Minimum Social Garanti</title>
+      <description>Clément Cayol écrit sa thèse en sciences sociales sur cette expérimentation menée à Grande-Synthe, dans le Nord. Il nous explique le contexte et les ambitions de Damien Carême, alors maire EELV, mais aussi les limites du périmètre municipal dans un cadre législatif et politique contraint. Il nous présente l’enquête qu’il a conduite auprès des bénéficiaires et les liens avec d’autres espoirs qui naissent dans d’autres villes comme Lyon… Consultez le rapport Sans contrepartie du Collectif pour un Revenu Minimum Garanti : https://www.aequitaz.org/wp-content/uploads/2020/11/rapport_revenusans_contreparties_VF2.pdf</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/10/8tous-essentiels-grande-synthe-avril-23-1.mp3?_=28</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/10/8tous-essentiels-grande-synthe-avril-23-1.mp3?_=28" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 9 – L'allocation universelle d'existence</title>
+      <description>Avec Guy Valette, découvrons une version clé en main, financée par l’impôt et la solidarité nationale (comprenez : les très riches paient un peu plus). Ambitieuse : elle ne vise rien de moins que d’émanciper les citoyens, et très concrète : les comptes sont faits, “y’a-plus-qu’à”. Retrouvez sa présentation et un simulateur pour tester précisément votre situation : qu’est-ce que l’allocation universelle d’existence changerait pour vous ?https://guyvaletteparis.wordpress.com/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/10/9tousessentiels-guy-valette-mai23.mp3?_=27</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/10/9tousessentiels-guy-valette-mai23.mp3?_=27" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 10 - La Dotation Inconditionnelle d'Autonomie</title>
+      <description>Vincent Liegey s’engage depuis longtemps sur le chemin de la Décroissance et il a co-écrit un manifeste dans lequel ce revenu de base s’articule avec un ensemble de mesures qui forment un projet de société durable… et joyeux ! On peut être lucide et vivre son rêve, pragmatique et ambitieux … soyons-le ensemble et dès maintenant ! Tous les détails sur www.projet-decroissance.net/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/10/10tous-essentiels-decroissants-juin23.mp3?_=26</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/10/10tous-essentiels-decroissants-juin23.mp3?_=26" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 11 – Le salaire à Vie</title>
+      <description>Xavier Morin fait partie du Réseau Salariat qui défend, à partir des travaux de Bernard Friot, et nous explique comment cette version peut renverser le capitalisme : cette rémunération reconnait en chaque citoyen.ne son potentiel de producteur.trice. D’ailleurs, l’ambition est de se réapproprier les moyens de production et de financer ensemble les investissements comme ce salaire inconditionnel. Pour en savoir plus, rejoignez-les surhttps://www.reseau-salariat.info/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/10/11SalaireAVie.mp3?_=25</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/10/11SalaireAVie.mp3?_=25" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 12 - Un Revenu Chartaliste</title>
+      <description>Henri Geist n’est pas seulement très investi au MFRB, il a aussi beaucoup réfléchi à une version de revenu de base qui s’appuie sur l’impôt et plus précisément sur la "taxe sur l'Actif Net" qui est un impôt patrimonial, partant du principe que les principales inégalités sont celles du patrimoine plus que celles du revenu.Retrouvez-le en vidéo pour vous expliquer tout ça plus en détails :https://www.youtube.com/watch?v=Xwf2RHQn-iU</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/10/12RevenuChartaliste.mp3?_=24</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/10/12RevenuChartaliste.mp3?_=24" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 13 - Un Revenu Minimum d'Existence couplé à un Capital d'émancipation</title>
+      <description>Guillaume Mathelier cumule plusieurs vies, entre la mairie d’une petite ville de Haute -Savoie, une Haute école de gestion à Genève et l’Institut d’éthique appliquée de l’Université de Laval … il a pourtant une valeur phare : “L’égalité avant toute chose” (livre édité en 2022). Il nous présente comment articuler un revenu versé régulièrement toute la vie avec un tremplin à la majorité. Retrouvez ses écrits sur https://guillaumemathelier.academia.edu/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/10/revenuminiexistcapiralemanc-online-audio-converter-com-2.mp3?_=23</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/10/revenuminiexistcapiralemanc-online-audio-converter-com-2.mp3?_=23" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 14 - Une expérimentation à Paris</title>
+      <description>Léa Filoche est adjointe à la mairie de Paris, chargée des solidarités et de la lutte contre les inégalités et l’exclusion...rien de moins ! Elle nous présente le projet d’une expérimentation avec ses ambitions, ses étapes et ses freins. Retrouvez les avancées sur le site https://www.paris.fr/ en utilisant la barre de recherche avec des mot comme “universel”, “pacte de lutte contre l’exclusion”...</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/10/experiparis.mp3?_=22</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/10/experiparis.mp3?_=22" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 15 - Entreprise libérée et revenu de base</title>
+      <description>Julie Quillé s’investit dans une entreprise qui s’appelle Azaé, à Paris : une expérimentation de Revenu de Base à petite échelle, accessible à tout.es les indépendant.es qui mettent leurs valeurs et leur rémunération en question, en partage, et en commun. Pour en savoir plus, écrivez-lui sur contact@azae.net 😃</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2023/12/04122023-Tous-Essentiels-Revenu.mp3?_=21</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2023/12/04122023-Tous-Essentiels-Revenu.mp3?_=21" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 16 - Equinomy</title>
+      <description>Sébastien Groyer croise son doctorat en philosophie et sa thèse sur le capitalisme et l’économie de marché pour inventer et défendre l’Equinomy, c’est à dire une économie équitable, écologique et équilibrée, à partir du partage du pouvoir dans l’entreprise et un marché “positif” qui nous sortirait du capitalisme. Il voit le Revenu de Base comme la révolution sociale du XXIème siècle, permettant une décroissance matérielle ET une croissance de valeur dans l’optimisation des ressources humaines et naturelles. Rdv sur https://equinomy.com/.</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2024/05/Tous-Essentiels-janvier-2024.mp3?_=20</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2024/05/Tous-Essentiels-janvier-2024.mp3?_=20" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 17 - Un revenu de citoyenneté, suffisant et décroissant</title>
+      <description>Baptiste Mylondo claire sa formation d’économiste avec celle d’anthropologie et nous chamboule en renversant nos croyances, en libérant notre imaginaire pour se réapproprier la Valeur Travail, la cnetralité de l’emploi et la méritocratie. Il nous présente un Revenu de Citoyenneté résolument suffisant pour pouvoir refuser un emploi et dans un projet de décroissance radical de gauche.Retrouvez-le sur Blast : https://www.youtube.com/watch?v=UuirU5b8L1Q.</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2024/04/17Baptiste-Mylondo-fevrier-24-1.mp3?_=19</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2024/04/17Baptiste-Mylondo-fevrier-24-1.mp3?_=19" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 18 - Un revenu d'autonomie à expérimenter dans 26 départements</title>
+      <description>Timothée Duverger travaille sur les innovations dans les territoires et nous présente le projet de la Fondation Jaurès qui a porté une loi d’expérimentation, hélas recalée par M Macron, mais qui a essaimé et inspiré des citoyen.nes, des collectifs… et peut-être vous ???Tous les détails sur https://www.jean-jaures.org/?s=revenu.</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2024/03/tous-essentiels-jaures-mars24.mp3?_=18</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2024/03/tous-essentiels-jaures-mars24.mp3?_=18" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 19 - Le compte carbone</title>
+      <description>Bien mieux que la taxe carbone inégalitaire et pas intéressant vers un revenu de base, Armel Prieur a cherché à réunir les enjeux climatiques et la justice démocratique… un défi qui pose les bonnes questions et propose une réponse étonnante ! Découvrez vidéos, BD et articles sur https://comptecarbone.cc/.</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2024/03/tous-essentiels-compte-carbone-avril24.mp3?_=17</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2024/03/tous-essentiels-compte-carbone-avril24.mp3?_=17" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 20 - Le revenu inconditionnel d'existence</title>
+      <description>Antonella Corsani s’est battue pour le régime des intermittents du spectacle et rêve aujourd’hui de l’offrir à tous et sans conditions. Mais attention ! Il doit être financé par une monnaie saine, primaire et sans dette, pour libérer la transition écosophique, comprenez l’agencement de 3 écologies : mentale (mon épanouissement), sociale (mes liens aux autres) et environnementale. Retrouvez les détails dans son livre : Chemins de la liberté, le travail entre hétéronomie et autonomie !</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2024/05/Tous_essentiels__06-05-2024_08h00.mp3?_=16</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2024/05/Tous_essentiels__06-05-2024_08h00.mp3?_=16" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.33 - Revenu de base et gestion des communs : pour un accès à l'eau pour tous et toutes, sans condition</title>
+      <description>Pierre-Yves Pira est ancien conseiller municipal à Lambersart dans le Nord, et membre du Conseil de l'Eau à la Métropole européenne lilloise (MEL), mais aussi fondateur du Collectif Eau pour une Régie publique et les premiers m3 gratuits. Il nous explique les enjeux de la gestion de cette ressource vitale, qui est notre bien commun et non une marchandise. C'est un sujet environnemental et démocratique, et qui concerne donc tous les citoyen·ne·s !Plus d'informations :https://www.lillemetropole.fr/eau-et-assainissement</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2025/09/tous-essentiels-nov-25.mp3?_=14</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2025/09/tous-essentiels-nov-25.mp3?_=14" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 21 - Le RB3I avec la 3RTT</title>
+      <description>Bernard Héron défend et diffuse le Revenu de Base depuis plus de 50 ans, commençant avec le syndicat étudiant l’UNEF ! Après avoir construit le REMEDE (Revenu Economique Minimum d’Existence et de Dignité Emancipateur), il articule le RB3I : Revenu de Base Inconditionnel, Individuel et Inaliénable avec la 3RTT : Répartition des Richesses et Réduction du Temps de Travail. Tout un programme qui pourrait commencer en Corse ou à Mayotte ! Tous les détails sur son site : http://www.generationdemain.org/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2024/09/21tous-essentiels-remede-juillet-24.mp3?_=13</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2024/09/21tous-essentiels-remede-juillet-24.mp3?_=13" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.22 – Le REVE : Revenu Emancipateur pour Vivre Epanoui</title>
+      <description>Romain Haonfaure et Jean-François Rochas-Parrot s’obstinent à être des Bizounours écolohumanistes et, parmi toutes les alternatives joyeuses qu’ils présentent, voici le REVE, en partant du principe que l’Ecologie est une nécessité, que l’Humain est l’objectif et que l’Economie est le moyen. Retrouvez leur infographie sur :https://lesecolohumanistes.fr/reve-revenu-emancipateur-pour-vivre-epanoui/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2024/09/22.REVEecolohumaniste-1.mp3?_=12</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2024/09/22.REVEecolohumaniste-1.mp3?_=12" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.23 – Une Caisse Commune pour une Allocation Universelle</title>
+      <description>Jean-Noël Marzo explore notamment l’utilisation de la Taxe sur la Valeur Ajoutée pour financer sa version, en plus d’un impôt sur le capital et l’intégration des allocations déjà existantes. Son objectif : que tout le monde participe à “supprimer la misère plutôt que de la soigner”. Retrouvez sa présentation complète et illustrée sur la chaine youtube du MFRB : https://www.youtube.com/watch?v=UNvVg-FO35o</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2024/09/23CaisseCommuneAllocUniv.mp3?_=11</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2024/09/23CaisseCommuneAllocUniv.mp3?_=11" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.24 – Une garantie de revenu vraiment universelle</title>
+      <description>Avec Marc Wolf, soyons pragmatiques : il s’agit d’agir vite pour répondre à l’urgence sociale : un minimum de volonté politique et l’on peut rendre inconditionnels les minima sociaux pour soulager les “bénéficiaires” et éradiquer la précarité et son stress chronique, l’humiliation au guichet… Pour en savoir plus, rendez-vous sur le site de la Fondation Jean Jaurès ici : https://www.jean-jaures.org/publication/pour-une-garantie-de-revenu-reellement-universelle-une-approche-pragmatique/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2024/10/24.Une-garantie-de-revenu-vraiment-universel.mp3?_=10</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2024/10/24.Une-garantie-de-revenu-vraiment-universel.mp3?_=10" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.25 – La Sécurité Sociale de l'Alimentation</title>
+      <description>Alex Roubinowitz et Eric Gauthier nous présentent l’élan national de cette future branche de la Sécu ainsi que différentes déclinaisons locales : une forme de revenu de base ciblée sur le droit de se nourrir et d’être en pleine santé ET qui prend soin aussi de ceux qui nous nourrissent en leur assurant un débouché local. A multiplier sur tous nos territoires jusqu’à une version nationale ! Rendez-vous sur https://securite-sociale-alimentation.org</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2025/04/25SecuriteSocialeAlimentation-1.mp3?_=9</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2025/04/25SecuriteSocialeAlimentation-1.mp3?_=9" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.26 – La monnaie hélicoptère sous la forme QE4People</title>
+      <description>Stanislas Jourdan s’investit dans le plaidoyer européen et a travaillé pour l’association Quantitative Easing For The People. C’est l’occasion pour nous de comprendre la création monétaire européenne et son évolution, ses impacts sur notre quotidien, ses leviers de changement social mais aussi ses freins… Ce qui nous semble si loin mais qui a des effets concrets sur notre portemonnaie ! Pour en savoir plus : https://www.qe4people.eu</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2025/04/26MonnaieHelicoptere-1.mp3?_=8</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2025/04/26MonnaieHelicoptere-1.mp3?_=8" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.27 – La monnaie contributive</title>
+      <description>Geneviève Bouché, futurologue cybernéticienne, nous fait voyager dans le temps, à l’intérieur de notre cerveau et au coeur de notre organisation économique pour expliquer la nécessité rationnelle d’un revenu pour chacun.e et pour tous. Optimiser l’espace productif pour libérer notre temps et révéler notre potentiel dans l’espace contributif … qui construira un vivre ensemble de grande qualité ! CQFD ! Retrouvez-la sur : https://www.istegroup.com/wp-content/uploads/2021/11/811_Economie-productive-economie-contributive_TDM.pdf</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2025/04/27GenevieveBouche-1.mp3?_=7</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2025/04/27GenevieveBouche-1.mp3?_=7" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.28 - BIG : Basic Income Guarantee</title>
+      <description>Roland Duchâtelet a lancé le parti Vivants, en Belgique, qui porte le projet du BIG, un revenu de base comme un nouveau pilier de la Sécurité Sociale. Il nous présente aussi la vision d’un entrerpeneur qui veut libérer l’humain du travail ! A suivre aussi sur le site du BIEN : https://basicincome.org/news/2017/01/funding-social-security-automation/</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2025/04/28Vivants-1.mp3?_=6</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2025/04/28Vivants-1.mp3?_=6" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.30 - Vers une expérimentation à Lille</title>
+      <description>Élue Génération.s à la ville de Lille et à la Métropole Européenne de Lille, Faustine Balmelle défend depuis plusieurs années une expérimentation à Lille, forcément limitée mais riche d’enseignements. Elle nous présente ses attentes sur ce niveau municipal ainsi que les leviers de financement et les indicateurs pertinents. Pour en savoir plus sur le Revenu Universel d’Existence, rdv sur https://www.generation-s.fr/ ou sur sa chaine : https://www.youtube.com/channel/UCyLUtCdkb4hw5Mq15APWUsg</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2025/09/tousessentiels-oct25.mp3?_=5</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2025/09/tousessentiels-oct25.mp3?_=5" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.31 - Le revenu universel de base</title>
+      <description>Patrick Hasbroucq est un retraité très impliqué, notamment dans l’association lilloise Pour un Revenu Universel Nord. Il a écrit un livre dans lequel il développe sa proposition, le RUB, inspirée de son parcours dans diverses entreprises privées et de son regard de syndicaliste investi sur les conditions de travail : Un Revenu Universel de Base, Des arguments pour en débattre… et prendre sa vie en main. Retrouvez PRUN sur Facebook : https://www.facebook.com/groups/305232996273048</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2025/09/tous-essentiels-nov-25.mp3?_=4</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2025/09/tous-essentiels-nov-25.mp3?_=4" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.32 - Droit Au Logement, d’ATD Quart Monde et d’Agir contre le Chômage !</title>
+      <description>Pour saluer la journée internationale du refus de la misère ce 17 octobre, l’association lilloise Pour un Revenu Universel Nord (PRUN) a organisé une table ronde et invité des représentants du Droit Au Logement, d’ATD Quart Monde et d’Agir contre le Chômage ! Chacun a présenté son action et un état des lieux, puis sa position sur le Revenu de Base. Découvrez ces acharnés de la justice sociale ! Plus d’infos sur leurs sites : https://www.droitaulogement.org + https://www.atd-quartmonde.fr/  + https://solidarites.lille.fr/acteur/224/3-agir-ensemble-contre-le-chomage.htm</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2025/12/tous-essentiels-Journee-contre-la-misere.mp3?_=3</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2025/12/tous-essentiels-Journee-contre-la-misere.mp3?_=3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.33 - Revenu de base et gestion des communs : pour un accès à l'eau pour tous et toutes, sans condition</title>
+      <description>Pierre-Yves Pira est ancien conseiller municipal à Lambersart dans le Nord, et membre du Conseil de l'Eau à la Métropole européenne lilloise (MEL), mais aussi fondateur du Collectif Eau pour une Régie publique et les premiers m3 gratuits. Il nous explique les enjeux de la gestion de cette ressource vitale, qui est notre bien commun et non une marchandise. C'est un sujet environnemental et démocratique, et qui concerne donc tous les citoyen·ne·s !Plus d'informations :https://www.lillemetropole.fr/eau-et-assainissement</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2026/04/Tous_essentiels__06-04-2026_08h00.mp3?_=2</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2026/04/Tous_essentiels__06-04-2026_08h00.mp3?_=2" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep.34. Services de base universels : pour des transports en libre service “gratuits”</title>
+      <description>Monique Ladesou nous présente un des leviers fondamentaux d’Attac vers une extension des Services de base Universels : la gratuité des transports garantit le droit à la mobilité, qui permet d’accéder aux autres droits : santé, éducation, formation, culture… C’est donc une politique écologique, sociale et de santé publique.</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2026/04/Tous_essentiels__06-04-2026_08h00.mp3?_=2</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2026/04/Tous_essentiels__06-04-2026_08h00.mp3?_=2" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ep. 35. La Dotation en Capital par Avance sur Héritage</title>
+      <description>Denis Consigny, auteur du roman”Chers Boomeurs, il est temps de réparer nos erreurs” (Editions le Pré du Plain), nous partage une idée simple et efficace : proposer une somme d’argent aux + de 25 ans qui sera remboursée à la collectivité lorsqu’ils hériteront. Pour en savoir plus : www.aicu.fr</description>
+      <guid isPermaLink="false">https://www.revenudebase.info/wp-content/uploads/2026/06/Tous_essentiels__01-06-2026_08h00.mp3?_=1</guid>
+      <enclosure url="https://www.revenudebase.info/wp-content/uploads/2026/06/Tous_essentiels__01-06-2026_08h00.mp3?_=1" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
