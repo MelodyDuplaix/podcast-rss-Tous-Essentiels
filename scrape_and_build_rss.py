@@ -6,7 +6,7 @@ from feedgen.feed import FeedGenerator
 
 PODCAST_PAGE_URL = "https://www.revenudebase.info/podcasts/"
 SITE_URL = PODCAST_PAGE_URL
-RSS_SELF_URL = "https://TON_USER.github.io/mfrb-podcast-rss/rss.xml"  # à ajuster après activation de Pages
+RSS_SELF_URL = "https://melodyduplaix.github.io/podcast-rss-Tous-Essentiels/rss.xml"
 
 
 def fetch_episodes():
